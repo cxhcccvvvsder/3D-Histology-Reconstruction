@@ -1,0 +1,43 @@
+MIT License
+
+Copyright (c) 2026 OpenClaw Community
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## Additional Terms
+
+### Third-Party Services
+
+This software is a third-party client tool for IndexTTS API. It is not affiliated with, endorsed by, or connected to IndexTTS or its owners.
+
+### API Usage
+
+- Users are responsible for their own API usage and associated costs
+- API credentials must be obtained directly from IndexTTS
+- Users must comply with IndexTTS Terms of Service
+
+### Trademarks
+
+IndexTTS and related trademarks are property of their respective owners. This software does not claim any rights to these trademarks.
+
+### No Warranty
+
+This software is provided "as is" without any warranty, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement.

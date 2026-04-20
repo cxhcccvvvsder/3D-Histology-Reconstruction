@@ -26,7 +26,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ========== 核心配置（按文档要求） ==========
-BASE_URL = os.getenv("INDEX_BASE_URL", "https://openapi.indextts.cn")
+BASE_URL = os.getenv("INDEX_BASE_URL", "https://openapi.lipvoice.cn")
 API_SIGN = os.getenv("INDEX_API_SIGN")  # 鉴权用 sign，所有接口必需
 TIMEOUT = 30  # 请求超时时间（秒）
 
